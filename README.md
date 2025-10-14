@@ -440,7 +440,7 @@ Need help? Reach out!
 
 | Version | Date | Changes |
 |---------|------|---------|
-| **v1.0.0** | 2024-01 | 🎉 Initial release with core features |
+| **v1.0.0** | 2025-10 | 🎉 Initial release with core features |
 
 ### What's Included in v1.0.0
 - ✅ Classic Tic Tac Toe gameplay

@@ -44,6 +44,35 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Light Mode
+
+| Home Screen | Game Screen | Score Board |
+|:---:|:---:|:---:|
+| ![Home Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Home+Screen) | ![Game Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Game+Screen) | ![Score Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Leaderboard) |
+| Main menu with game mode selection | Active gameplay with AI | Statistics and history |
+
+### Dark Mode
+
+| Home Screen | Game Screen | Victory Screen |
+|:---:|:---:|:---:|
+| ![Home Dark](https://via.placeholder.com/250x500/1A1A1A/4CAF50?text=Home+Screen) | ![Game Dark](https://via.placeholder.com/250x500/1A1A1A/4CAF50?text=Game+Screen) | ![Victory Dark](https://via.placeholder.com/250x500/1A1A1A/4CAF50?text=Victory+Screen) |
+| Dark theme home screen | Gameplay with dark UI | Victory celebration animation |
+
+### Game States
+
+| Player's Turn | AI's Turn | Game Over |
+|:---:|:---:|:---:|
+| ![Player Turn](https://via.placeholder.com/250x500/E3F2FD/1976D2?text=Player+Turn) | ![AI Turn](https://via.placeholder.com/250x500/FFF3E0/F57C00?text=AI+Thinking) | ![Game Over](https://via.placeholder.com/250x500/FCE4EC/C2185B?text=Game+Over) |
+| Waiting for player input | AI calculating best move | Win/Draw/Loss screen |
+
+</div>
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites

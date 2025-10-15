@@ -52,21 +52,21 @@
 
 | Home Screen | Game Screen | Victory Screen |
 |:---:|:---:|:---:|
-| ![Home Light](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/light-mode/home_screen.jpeg) | ![Game Light](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/light-mode/game_screen.jpeg) | ![Victory Light](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/light-mode/victory_screen.jpeg) |
+| ![Home Light](screenshots/light-mode/home_screen.jpeg) | ![Game Light](screenshots/light-mode/game_screen.jpeg) | ![Victory Light](screenshots/light-mode/victory_screen.jpeg) |
 | Main menu with game mode selection | Active gameplay with AI | Victory celebration screen |
 
 ### Dark Mode
 
 | Home Screen | Game Screen | Victory Screen |
 |:---:|:---:|:---:|
-| ![Home Dark](screenshots/dark-mode/home_screen.jpeg) | ![Game Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/game_screen.jpeg) | ![Victory Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/victory_screen.jpeg) |
+| ![Home Dark](screenshots/dark-mode/home_screen.jpeg) | ![Game Dark](screenshots/dark-mode/game_screen.jpeg) | ![Victory Dark](screenshots/dark-mode/victory_screen.jpeg) |
 | Dark theme home screen | Gameplay with dark UI | Victory celebration animation |
 
 ### Game States
 
 | Player's Turn | AI's Turn | Game Over |
 |:---:|:---:|:---:|
-| ![Player Turn](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/gameplay/player_turn.jpeg) | ![AI Turn](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/gameplay/ai_turn.jpeg) | ![Game Over](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/gameplay/draw_screen.jpeg) |
+| ![Player Turn](screenshots/gameplay/player_turn.jpeg) | ![AI Turn](screenshots/gameplay/ai_turn.jpeg) | ![Game Over](screenshots/gameplay/draw_screen.jpeg) |
 | Waiting for player input | AI calculating best move | Draw game screen |
 
 </div>

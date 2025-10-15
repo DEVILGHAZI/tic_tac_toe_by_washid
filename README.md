@@ -52,7 +52,7 @@
 
 | Home Screen | Game Screen | Score Board |
 |:---:|:---:|:---:|
-| ![Home Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Home+Screen) | ![Game Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Game+Screen) | ![Score Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Leaderboard) |
+| ![Home Light](screenshots/light-mode/home_screen.jpeg) | ![Game Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Game+Screen) | ![Score Light](https://via.placeholder.com/250x500/E8F5E9/2E7D32?text=Leaderboard) |
 | Main menu with game mode selection | Active gameplay with AI | Statistics and history |
 
 ### Dark Mode

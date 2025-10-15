@@ -59,7 +59,7 @@
 
 | Home Screen | Game Screen | Victory Screen |
 |:---:|:---:|:---:|
-| ![Home Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/home_screen.jpeg) | ![Game Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/game_screen.jpeg) | ![Victory Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/victory_screen.jpeg) |
+| ![Home Dark](screenshots/dark-mode/home_screen.jpeg) | ![Game Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/game_screen.jpeg) | ![Victory Dark](https://raw.githubusercontent.com/DEVILGHAZI/digital_guruji_assignment_tic_tac_toe/main/screenshots/dark-mode/victory_screen.jpeg) |
 | Dark theme home screen | Gameplay with dark UI | Victory celebration animation |
 
 ### Game States
